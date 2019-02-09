@@ -1,0 +1,54 @@
+.jumbotron {
+    text-align: center;
+    background: rgb(127,70,44);
+    color: white;
+    border-radius: 10px;
+}
+
+.contain {
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: rgb(51,122,183);
+    border-radius: 10px;
+    padding-top: 0px;
+    margin-bottom: 10px;
+}
+
+.title {
+    font-weight: bold;
+    border-radius: 9px 9px 0px 0px;
+    background: rgb(51,122,183);
+    color: white;
+    width: 100%;
+    padding: 3px;
+}
+
+p {
+    margin: 0px 0px 0px 10px;
+}
+
+#trainTable {
+    text-align: center;
+    width: 100%;
+    margin-left: 5%;
+}
+
+.tableContain {
+    width: 90%;
+    margin: 1%;
+}
+
+#tableTitle {
+    font-weight: bold;
+    border-bottom: thin solid rgb(221,221,221);
+}
+
+tr {
+    border-bottom: thin solid rgb(221,221,221);
+}
+
+
+.formText {
+    width: 100%;
+    padding: 10px;
+}
